@@ -1,0 +1,1 @@
+game.AddDecal("BunnyDecal", "bunny_bunny/bunny")
